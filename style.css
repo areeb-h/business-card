@@ -1,0 +1,38 @@
+body {
+    margin: 50px;
+    font-family: Verdana, sans-serif;
+}
+.card {
+    display: flex;
+   /* justify-content: center;*/
+    justify-content: space-around;
+    column-gap: 22px;
+    max-width: max-content;
+    margin: 0 auto 0 auto;
+    background-color: aquamarine;
+    border-bottom: 4px solid rgb(0, 198, 132);
+    padding: 30px;
+}
+
+.el-1 img {
+    max-width: 200px;
+}
+
+.el-2 {
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.dotted-border {
+    border: 3px dotted blue;
+}
+
+.circle {
+    display: block;
+    margin: auto auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background-color: red;
+}

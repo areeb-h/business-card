@@ -1,5 +1,7 @@
-# Professional Network Platform
+# Orbit (working title)
 
-A professional network with everything LinkedIn offers, done better: profiles that prove work instead of claiming it, connections with context and reminders, a calm chronological social layer, respectful messaging, transparent opportunities, and instant in-person sharing.
+**Never lose touch with anyone who matters.**
 
-The project is in the requirements phase. See [docs/PRD.md](docs/PRD.md).
+A private, automatic relationship assistant. It reads the traces your interactions already leave (email, calendar, messages, meetings), builds a living picture of everyone you know, and tells you who to talk to, when, and what to say. Zero data entry.
+
+The project is in the planning phase. Start with the [vision](docs/00-vision.md), then the [docs index](docs/README.md).

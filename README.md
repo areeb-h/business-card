@@ -1,5 +1,5 @@
-# Business Card
+# Professional Network Platform
 
-A digital business card platform for professionals: create a card, share it with a QR code, NFC or a link, collect leads, and track engagement.
+A professional network with everything LinkedIn offers, done better: profiles that prove work instead of claiming it, connections with context and reminders, a calm chronological social layer, respectful messaging, transparent opportunities, and instant in-person sharing.
 
 The project is in the requirements phase. See [docs/PRD.md](docs/PRD.md).
